@@ -70,3 +70,7 @@ email: ""
 ---
 
 Arif Khan's research interest includes graph algorithm, high performance computing, approximation algorithm along with their applications in bioinformatics, social network and machine learning. His goal is to explore how approximation algorithms can solve big graph problems using leadership class supercomputers.
+
+
+My Erdös number is 3: Khan --> Manne --> Hedetniemi --> Erdös
+
